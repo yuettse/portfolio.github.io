@@ -37,6 +37,22 @@ html, body {
 }
 
 
+@media screen and (max-width: 1000px) {
+  div#topHalf {
+    height: 50%;
+  }
+  div#bottomOfFirstPage {
+    height: 35%;
+  }
+  h1#portfolioHeader {
+    font-size: 9vmin;
+  }
+  p#portfolioIntroduction {
+    font-size: 5vmin;
+  }
+} 
+
+
 #checkOutMyWork {
     margin-top: 10px;
     display: block;
