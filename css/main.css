@@ -36,6 +36,22 @@ html, body {
   }
 }
 
+@media screen and (max-width: 400px) {
+  div#topHalf {
+    height: 50%;
+  }
+  div#bottomOfFirstPage {
+    height: 30%;
+  }
+  h1#portfolioHeader {
+    font-size: 6vmin;
+  }
+  p#portfolioIntroduction {
+    font-size: 3vmin;
+  }
+}
+
+
 
 @media screen and (max-width: 1000px) {
   div#topHalf {
