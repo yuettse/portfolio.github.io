@@ -18,7 +18,7 @@ html, body {
   p#portfolioIntroduction {
     font-size: 5vmin;
   }
-}
+} 
 
 
 @media screen and (max-width: 700px) {
